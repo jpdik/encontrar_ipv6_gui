@@ -1,6 +1,8 @@
 # encontrar_ipv6_gui
   Aplicativo visual em python que resolve domínios e obtém o endereço IPv6 do endereço no linux.
   
+  Toda parte visual foi criada no `Glade` e simplesmente chamada no arquivo `Converter.py`, onde são chamados os listeners e criado toda parte lógica do programa.
+  
 <p align="center">
   <img src="https://github.com/jpdik/encontrar_ipv6_gui/blob/master/Samples/gui.png?raw=true" width="600"/>
 </p>
